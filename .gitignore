@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+/bin/
+/build/
+
+# Archivos de Eclipse
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Configuración local de Tomcat
+Servers/
+*.prefs
+
+# Librerías externas
+lib/mysql-connector-*.jar
+
+# (Opcional) ignorar todos los .jar externos
+# lib/*.jar
+
